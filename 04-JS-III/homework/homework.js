@@ -75,9 +75,12 @@ function dePalabrasAFrase(palabras) {
 
 
 function arrayContiene(array, elemento) {
-  // Comprueba si el elemento existe dentro de "array"
+  // Comprueba si el elemento existe gidentro de "array"
   // Devuelve "true" si está, o "false" si no está
-  // Tu código:
+  // Tu código: 8
+ 
+  ACTUAL
+
 }
 
 
